@@ -1,0 +1,70 @@
+{
+    "numSlides": 10,
+    "numQuestions": 4,
+    "lessonQuiz": {
+                "questions": {
+                        "q0": "Which option is when a trader bets of the stock falling?",
+                        "q1": "Which option is when a trader bets of the stock rising?",
+                        "q2": "When will a stock option be executed?",
+                        "q3": "How many shares are in a single option contract?"
+                },
+                "possibleAnswer": {
+                        "p0": [
+                                "Employee Stock Option",
+                                "Stock Put",
+                                "Premium",
+                                "Stock Call"
+                        ],
+                        "p1": [
+                                "Premium",
+                                "Stock Put",
+                                "Employee Stock Option",
+                                "Stock Call"
+                        ],
+                        "p2": [
+                                "Strike Price",
+                                "At the Time Value",
+                                "When you buy the Option",
+                                "First Day of the Month"
+                        ],
+                        "p3": [
+                                "50 Stocks",
+                                "25 Stocks",
+                                "100 Stocks",
+                                "75 Stocks"
+                        ]
+                },
+                "rightAnswer": {
+                        "a0": "b",
+                        "a1": "d",
+                        "a2": "b",
+                        "a3": "c"
+                },
+                "wrongAnswer": {
+                        "wA0": [
+                            "Type of compensation that some employees can receive",
+                            "",
+                            "This is the fee you pay for the option contract",
+                            "This is when you bet for the stock to rise"
+                        ],
+                        "wA1": [
+                            "This is the fee you pay for the option contract",
+                            "This type of option is for betting the stock price will fall",
+                            "Type of compensation that some employees can receive",
+                            ""
+                        ],
+                        "wA2": [
+                            "This is the price you hope to pay",
+                            "",
+                            "There is no time for the stock to flucuate",
+                            "This wouldn't allow enough time for stocks to flucuate for contracts at end of month"
+                        ],
+                        "wA3": [
+                            "This is not the standard",
+                            "This is not the standard",
+                            "",
+                            "This is no the standard"
+                        ]
+                }
+        }
+}
