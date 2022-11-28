@@ -1,0 +1,84 @@
+{
+    "numSlides": 11,
+    "numQuestions": 5,
+    "lessonQuiz": {
+                "questions": {
+                        "q0": "Do you own the stock(s) when trying to short sell?",
+                        "q1": "Which scenario is the best to short sell in the market?",
+                        "q2": "What does your account balance have to be maintained at?",
+                        "q3": "How much profit do you loss on this short sell? A company's stock is trading at $100. You buy 100 shares. After a week the stock price increases to $110. You decided to sell at this price.",
+                        "q4": "How much profit do you gain on this short sell? A company's stock is trading at $50. You buy 100 shares. After a week, the stock price drops to $25. You decided to sell at this price."
+                },
+                "possibleAnswer": {
+                        "p0": [
+                                "Yes, you own them fully",
+                                "No, you borrow from a broker",
+                                "No, you share the stocks with someone else",
+                                "No, you pay someone else to short sell"
+                        ],
+                        "p1": [
+                                "Employment is high, and money is continuously circulating in and out of the economy.",
+                                "Inflation is high and people are spending less and less each day.",
+                                "The government is pushing stimulus checks for people to spend",
+                                "The market is continuously rising"
+                        ],
+                        "p2": [
+                                "2x the price of your stock option",
+                                "$0.00",
+                                "The price of the lowest stock option",
+                                "Maintenance Margin"
+                        ],
+                        "p3": [
+                                "$500 loss",
+                                "$100 loss",
+                                "$1000 loss",
+                                "$1500 loss"
+                        ],
+                        "p4": [
+                                "$2500",
+                                "$1500",
+                                "$750",
+                                "$3000"
+                        ]
+                },
+                "rightAnswer": {
+                        "a0": "b",
+                        "a1": "b",
+                        "a2": "d",
+                        "a3": "c",
+                        "a4": "a"
+                },
+                "wrongAnswer": {
+                        "wA0": [
+                            "No, investors never own options",
+                            "",
+                            "No, investors do not share options",
+                            "No, you can't pay someone to short sell for you"
+                        ],
+                        "wA1": [
+                            "To short sell you are predicting a drop in the market",
+                            "",
+                            "You don't want money to be put into the economy",
+                            "This is the opposite situation of when you want to short sell"
+                        ],
+                        "wA2": [
+                            "This is optional, but there is a required minimum",
+                            "You can not have $0.00 in your account",
+                            "This is not capable as your minimum amout",
+                            ""
+                        ],
+                        "wA3": [
+                            "Try using the equation again",
+                            "Try using the equation again",
+                            "",
+                            "Try using the equation again"
+                        ],
+                        "wA4": [
+                            "",
+                            "Try using the equation again",
+                            "Try using the equation again",
+                            "Try using the equation again"
+                        ]
+                }
+        }
+}

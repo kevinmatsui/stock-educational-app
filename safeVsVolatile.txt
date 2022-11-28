@@ -1,0 +1,70 @@
+{
+    "numSlides": 11,
+    "numQuestions": 4,
+    "lessonQuiz": {
+                "questions": {
+                        "q0": "What is a good PE for a safe stock?",
+                        "q1": "How does market price vary for a volatile stock?",
+                        "q2": "If you want to invest long term, which type of stock should you invest in?",
+                        "q3": "Which type of stock is prevalent within large companies with a large market cap?"
+                },
+                "possibleAnswer": {
+                        "p0": [
+                                "PE = 34",
+                                "PE = 80",
+                                "PE = 19",
+                                "PE = 18"
+                        ],
+                        "p1": [
+                                "Flucuates heavily",
+                                "Flucuates slightly",
+                                "Doesn't flucuate at a high market price",
+                                "Doesn't flucuate at a low market price"
+                        ],
+                        "p2": [
+                                "Safe",
+                                "Volatile",
+                                "Big companies",
+                                "Penny stocks"
+                        ],
+                        "p3": [
+                                "Safe",
+                                "Volatile",
+                                "ESO",
+                                "None"
+                        ]
+                },
+                "rightAnswer": {
+                        "a0": "d",
+                        "a1": "a",
+                        "a2": "a",
+                        "a3": "a"
+                },
+                "wrongAnswer": {
+                        "wA0": [
+                            "WRONG, this is more likely a volatile stock",
+                            "That is either a really big company or a really volatile stock",
+                            "Almost",
+                            ""
+                        ],
+                        "wA1": [
+                            "",
+                            "Safe stocks flucuate slightly",
+                            "Every stock flucuates, no such thing as an unchanging stock",
+                            "Every stock flucuates, no such thing as an unchanging stock"
+                        ],
+                        "wA2": [
+                            "",
+                            "Volatile stocks flucuates heavily -- you don't want this for long term",
+                            "Big companies can be volatile -- take Tesla for example",
+                            "NO, these are heavily volatile"
+                        ],
+                        "wA3": [
+                            "",
+                            "Volatile companies flucuate their market cap since they are always changing",
+                            "These are employee stock options",
+                            "There is a correct answer"
+                        ]
+                }
+        }
+}

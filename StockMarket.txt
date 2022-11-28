@@ -1,0 +1,98 @@
+{
+    "numSlides": 18,
+    "numQuestions": 6,
+    "lessonQuiz": {
+		"questions": {
+                        "q0": "What is a stock?",
+                        "q1": "What causes a stock to change value?",
+                        "q2": "How do you get money through stocks?",
+                        "q3": "What is the stock market?",
+                        "q4": "What is a stock crash?",
+                        "q5": "Why is a stock crash bad for an investor IN the market"
+		},
+		"possibleAnswer": {
+                        "p0": [
+                                "An NFT",
+				"A representation of a small ownership of a company", 
+				"An excuse for tax evasion", 
+				"A way to lose money"
+			],
+                        "p1": [
+				"Wall Street", 
+                                "Public Opinion",
+				"Supply and Demand", 
+                                "A random number generator"
+			],
+                        "p2": [
+				"Trick question: you lose money",
+                                "You get a portion of the company's profit based on your stock and you can sell them",
+				"TO THE MOON", 
+                                "Following WallStreet Bets on Reddit"
+			],
+                        "p3": [
+				"A place where all trades occur", 
+                                "A market where you can buy food",
+                                "The New York Stock Exchange",
+                                "The Metaverse"
+			],
+                        "p4": [
+                                "When investors cash out for big profits",
+                                "When a company goes bankrupt",
+                                "When an investor has no money to invest",
+				"A big and unexpected drop in stock prices"
+			],
+                        "p5": [
+                                "Quick market gains",
+                                "It's a sign to invest in the market",
+                                "You'll get more dividends and own more of a company",
+				"Fast and big loss of money"
+			]
+		},
+		"rightAnswer": {
+                        "a0": "b",
+                        "a1": "c",
+                        "a2": "b",
+                        "a3": "a",
+                        "a4": "d",
+                        "a5": "d"
+                },
+                "wrongAnswer": {
+                        "wA0": [
+                            "WRONG: It may be magic to some, but not to you",
+                            "",
+                            "Maybe to the elite, but not for you -- I hope",
+                            "If you don't follow this tutorial maybe it will"
+                        ],
+                        "wA1": [
+                            "While Wall Street is an outlet major trade, \n they don't directly change the stock prices",
+                            "Public sentiment can drive stock prices, but they don't do it directly",
+                            "",
+                            "No, that's not it"
+                        ],
+                        "wA2": [
+                            "Wall Street is just the Financial District of Lower Manhattan in New York City",
+                            "",
+                            "AND BEYOND - Buzz Lightyear",
+                            "Wallstreet bets can influence the market but not individual stocks"
+                        ],
+                        "wA3": [
+                            "",
+                            "That's a grocery store",
+                            "The world's largest stock exchange by market capitilization",
+                            "dWrong"
+                        ],
+                        "wA4": [
+                            "For investors in the market, a crash usually leads to a loss of profits",
+                            "This can be a result of a stock market crash",
+                            "Money outside of the market is unaffected by a crash",
+                            ""
+                        ],
+                        "wA5": [
+                            "A crash will decrease the value of an investor's dollar",
+                            "True, but only for investors not in the market to buy at the dip",
+                            "During a crash, a company will never ",
+                            ""
+                        ]
+                }
+	}
+}
